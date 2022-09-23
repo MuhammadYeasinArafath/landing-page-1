@@ -1,0 +1,17 @@
+.foot{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 2rem;
+}
+.t2 a{
+display: grid;
+grid-template-columns: auto;
+text-decoration: none;
+color: black;
+}
+.t3 a{
+    display: grid;
+    grid-template-columns: auto;
+    text-decoration: none;
+    color: black;
+}

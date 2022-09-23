@@ -1,0 +1,17 @@
+.hero{
+background-color: blue;
+}
+/*Media Quries (Medium Device)*/
+@media screen and (max-width:1024px) {
+   #img{
+      width: 30rem;
+     }
+}
+/*Media Quries (Small Device)*/
+@media screen and (max-width:600px) {
+   #img{
+    width: 20rem;
+   }
+}
+
+

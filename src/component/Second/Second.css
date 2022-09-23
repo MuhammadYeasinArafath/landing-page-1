@@ -1,0 +1,25 @@
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+}  
+/*Media Quries (Medium Device)*/
+@media screen and (max-width:1024px) {
+    
+    .cards{
+        display: grid;
+        grid-template-columns: auto auto;
+        gap: 20px;
+    } 
+   
+}
+
+/*Media Quries (Small Device)*/
+@media screen and (max-width:600px) {
+   
+    .cards{
+        display: grid;
+        grid-template-columns: auto ;
+    } 
+
+}

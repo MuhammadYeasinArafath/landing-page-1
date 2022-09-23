@@ -1,0 +1,9 @@
+
+.testimonials{
+display: grid;
+grid-template-columns: auto auto;
+}
+article{
+    margin: 5px;
+    padding: 5px;
+}
